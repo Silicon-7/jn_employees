@@ -24,7 +24,7 @@ module JnEmployees
 
     private
 
-    def convert_hashes_to_objects(array_of_hashes)
+    def self.convert_hashes_to_objects(array_of_hashes)
       employees = []
       array_of_hashes.each do |employee_hash|
         employees << Employee.new(employee_hash)
