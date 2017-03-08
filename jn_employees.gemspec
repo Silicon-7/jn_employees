@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Api wrapper for chicago employees"
   spec.description   = "to be honest there's quite a few of these because we teach it in a class"
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/Silicon-7/jn_employees"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
